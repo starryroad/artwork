@@ -1,6 +1,6 @@
 # Starry Road Artwork
 
-...
+![Starry Road](starry_road.png)
 
 # License 
 
